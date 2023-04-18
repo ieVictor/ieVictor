@@ -13,10 +13,3 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam semper, est vit
   <img align="center" alt="ieVictor-C" height="5.5%" width="5.5%" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
   <img align="center" alt="ieVictor-Python" height="10%" width="10%" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </div>
-
-
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
--->
