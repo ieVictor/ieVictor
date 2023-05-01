@@ -1,6 +1,6 @@
-# Hi there 👋
+# Olá, Mundo! 👋
 
-## 👨🏻‍💻 About me
+## 👨🏻‍💻 Sobre mim
 Olá, meu nome é Victor Gabriel. Atualmente, sou estudante de Análise e Desenvolvimento de Sistemas na **UTFPR** e tenho interesse no desenvolvimento back-end.Com apenas 18 anos, estou empolgado para aprender e me desenvolver nesta área em constante evolução.
 
 ### Hobbys
