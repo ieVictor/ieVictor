@@ -9,7 +9,7 @@ Olá, meu nome é Victor Gabriel. Atualmente, sou estudante de Análise e Desenv
 
 ## Github Stats 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ieVictor&show_icons=true&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ieVictor&show_icons=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Studying
 
