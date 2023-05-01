@@ -1,7 +1,11 @@
 # Hi there 👋
 
 ## 👨🏻‍💻 About me
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam semper, est vitae volutpat vulputate, elit velit scelerisque turpis, ut dignissim tellus sem id mauris. Vestibulum vitae feugiat erat, nec convallis magna. Morbi sodales tristique erat, non gravida libero ultrices vel. Duis rutrum auctor purus. Suspendisse non orci tristique felis ultrices aliquam.
+Olá, meu nome é Victor Gabriel. Atualmente, sou estudante de Análise e Desenvolvimento de Sistemas na **UTFPR** e tenho interesse no desenvolvimento back-end.Com apenas 18 anos, estou empolgado para aprender e me desenvolver nesta área em constante evolução.
+
+### Hobbys
+- Games 🎮
+- Guitar 🎸
 
 ## Github Stats 
 
