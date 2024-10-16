@@ -4,8 +4,9 @@
 Hello, my name is Victor Gabriel. I'm currently studying <strong>Systems Analysis and Development at the Federal Technological University of Paraná</strong>. Currently focused on <strong>Back-end programming</strong>. During the ADS course I had the opportunity to learn languages such as <strong>`Java, JavaScript, C` and also concepts like `OOP, SOLID`</strong> and more.
 
 ## Github Stats 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ieVictor&show_icons=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
+![ieVictor's Stats](https://github-readme-stats.vercel.app/api?username=ieVictor&theme=vue&show_icons=true&hide_border=true&count_private=true)
+![ieVictor's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ieVictor&theme=vue&hide_border=true)
+![ieVictor's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ieVictor&theme=vue&show_icons=true&hide_border=true&layout=compact)
 
 ### Main skills:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
