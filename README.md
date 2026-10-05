@@ -3,6 +3,7 @@
 Hi! I'm a programmer, currently working for AI/R Company and building 2minds Academy. Reach me on:
 - **Email:** ievictorgabriel@gmail.com
 - **X:** [@victor_asdev](https://x.com/victor_asdev)
+- **Linkedin:** [Victor Gabriel](www.linkedin.com/in/victor-gabriel-l) 
 
 ## **Currently working on:<br>**
 - [ievictor.sh](https://github.com/ieVictor/ievictor.sh): personal website where i post slops and personal studies.<br>
