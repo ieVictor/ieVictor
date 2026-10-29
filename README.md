@@ -1,6 +1,6 @@
 # Victor Gabriel
 
-Hi! I'm a programmer, currently working for AI/R Company and building 2minds Academy. Reach me on:
+Hi! I'm a software developer, currently working for AI/R Company and building 2minds Academy. Reach me on:
 - **Email:** ievictorgabriel@gmail.com
 - **X:** [@victor_asdev](https://x.com/victor_asdev)
 - **Linkedin:** [Victor Gabriel](www.linkedin.com/in/victor-gabriel-l) 
